@@ -1,0 +1,26 @@
+Scope
+
+This policy covers the application testing of all systems, software, and data related to our organization. This includes all web applications, mobile applications, software programs, and databases that are owned, operated, or otherwise managed by the organization. Outsourced pen testers and bug bounty hunters should use the appropriate testing techniques and tools to identify and remediate vulnerabilities found in the applications. 
+
+Rules of Engagement
+
+
+All pen testers and bug bounty hunters must be familiar with the organization's systems and data before performing any testing. 
+
+All testing must follow the organization's security standards and adhere to all applicable laws. 
+
+All tests should be conducted using up-to-date tools and techniques. 
+
+All tests should be conducted in a manner that minimizes risk to the organization's systems and data. 
+
+All sensitive information should be treated with the utmost confidentiality. 
+
+All results must be reported to the organization in a timely manner. 
+
+All mitigation recommendations should be based on industry best practices. 
+
+All tools used for testing should be approved by the organization. 
+
+All tests should be performed in a safe and secure environment. 
+
+All tests should be conducted in accordance with the organization's policies and procedures. 

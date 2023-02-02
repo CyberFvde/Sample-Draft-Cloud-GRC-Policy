@@ -1,0 +1,40 @@
+The following document outlines a comprehensive incident response plan that should be followed in the event of an incident. The plan includes the roles and responsibilities of various personnel, a list of steps to be taken in the event of an incident, and resources that can be used to address the incident. 
+
+Scope
+
+This incident response plan is applicable to all personnel in the organization. It should be used by all employees and contractors in the event of an incident. 
+
+Definitions
+
+The following terms are used within this document: 
+
+
+Incident: Any event that may pose a threat to the security, integrity, or confidentiality of the organization's data, systems, or networks.
+
+User: Any person that has access to systems, data, or networks owned or managed by the organization.
+
+
+Roles and Responsibilities
+
+The following personnel will have distinct roles and responsibilities in the event of an incident:
+
+
+Security Officer: The Security Officer will be responsible for taking the lead role in the incident response. The Security Officer will assess the scope of the incident, determine the necessary steps to be taken to address the incident, and communicate the response plan to all relevant personnel.
+
+Incident Response Team: The Incident Response Team will be responsible for carrying out the response plan provided by the Security Officer. The team will be responsible for gathering evidence, analyzing the cause of the incident, and carrying out the necessary steps to address the incident. 
+
+
+Process
+
+The following steps should be taken in the event of an incident: 
+
+
+Identification: The Security Officer or Incident Response Team should identify the incident and define its scope.
+
+Containment: The Security Officer or Incident Response Team should take steps to contain the incident, such as disconnecting affected systems, disabling user accounts, or other methods of containing the incident.
+
+Analysis: The Security Officer or Incident Response Team should analyze the incident to determine the cause and the impact of the incident.
+
+Remediation: The Security Officer or Incident Response Team should take steps to remediate the incident, such as applying security patches, restoring backups, or other methods of remediating the incident.
+
+Lessons Learned: The Security Officer or Incident Response Team should document the incident and the steps taken to address it, in order

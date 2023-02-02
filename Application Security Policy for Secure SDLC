@@ -1,0 +1,25 @@
+This policy outlines the security measures to be taken in order to properly secure the Software Development Life Cycle (SDLC). It is essential that these processes are followed to minimize the risk of data breaches that could be caused by security vulnerabilities. 
+
+Threat Modeling
+
+The first step in developing a secure SDLC is to conduct a risk assessment. This process should identify any potential security threats that could put the organization’s data at risk. This includes any potential software vulnerabilities, flaws in the system, or weaknesses in the code. 
+
+Secure Design and Architecture
+
+Once the risk assessment is complete, it is crucial to create a secure design and architecture for the system. This should include secure coding practices, secure data storage, and secure communication protocols. These processes should be in place to ensure that the system is resilient against attacks and data breaches. 
+
+Security Testing
+
+Security testing is a key part of the secure SDLC. This process should include penetration tests, vulnerability scans, and other tests to identify and address any security flaws. The results of these tests should be used to improve the security of the system. 
+
+Monitoring and Response
+
+It is important to monitor the system for any security incidents or threats. This can be done through the use of automated monitoring tools and manual checks of the system. In the event of a security incident, the organization should have a response plan in place to mitigate the risk of data breaches. 
+
+User Education
+
+It is essential to educate users on security best practices. This includes topics such as secure password practices, phishing prevention, and recognizing malicious software. This will ensure that users are aware of security risks and can help protect the organization’s data. 
+
+Conclusion
+
+By following these security measures, organizations can ensure that their SDLC is secure and their data is protected from potential data breaches. However, it is important to note that security is an ongoing process and these measures must be regularly reviewed and updated.
